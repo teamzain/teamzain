@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001221,50:041f31,100:0f2a40&height=220&section=header&text=Zain%20Ul%20Abidden&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20COO%20at%20Kinseb&descAlignY=58&descSize=18&animation=fadeIn" alt="Zain Ul Abidden banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001221,50:041f31,100:0f2a40&height=220&section=header&text=Zain%20Ul%20Abidden&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20COO%20at%20Kinseb&descAlignY=58&descSize=18&animation=fadeIn" alt="Zain Ul Abidden banner" width="100%"/>
 </p>
 
 <!-- Typing intro -->
@@ -86,5 +86,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a40,50:041f31,100:001221&height=120&section=footer" alt="footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2a40,50:041f31,100:001221&height=40&section=footer" alt="footer" width="100%"/>
 </p>
