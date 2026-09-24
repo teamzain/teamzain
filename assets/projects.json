@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description. Edit freely.",
+  "projects": [
+    { "repo": "shell-petrol-pump", "description": "Management system for a Shell petrol pump: purchasing, inventory, sales, expenses and reporting. React + Supabase." },
+    { "repo": "ZakatWise_Preview", "description": "ZakatWise: a zakat calculation app backed by an ontology knowledge model." },
+    { "repo": "maddad_karo", "description": "Maddad Karo: a community help platform." },
+    { "repo": "swiftconnect", "description": "SwiftConnect: a connection app with a separate Node backend." }
+  ]
+}

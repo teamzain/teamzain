@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these numbers to match how you rate yourself; 5-8 axes reads best.",
+  "axes": [
+    { "label": "React / Next.js", "value": 90 },
+    { "label": "Node / API",      "value": 85 },
+    { "label": "Supabase / SQL",  "value": 80 },
+    { "label": "Shopify Liquid",  "value": 85 },
+    { "label": "TypeScript",      "value": 80 },
+    { "label": "Python / AI",     "value": 70 },
+    { "label": "CRO / Growth",    "value": 80 }
+  ]
+}
