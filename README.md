@@ -149,6 +149,6 @@ I'm **Zain**, a full-stack developer and COO at **[Kinseb](https://kinsebmarketi
 **Need a website, a Shopify store that converts, or a SaaS MVP?**<br>
 <a href="https://kinsebmarketing.com">kinsebmarketing.com</a> · <a href="mailto:zain@kinsebmarketing.com">zain@kinsebmarketing.com</a>
 
-<sub>Portrait, charts and cards regenerate themselves daily via GitHub Actions. Setup adapted from <a href="https://github.com/gargibhardwaj24">gargibhardwaj24</a>'s profile guide.</sub>
+
 
 </div>
